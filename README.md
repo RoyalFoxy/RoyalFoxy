@@ -6,7 +6,8 @@
 ## 🌱 I’m currently learning...
 - The above mentioned languages
 - BMS (Look it up, it's a swiss school thing)
-## 📫 You can reach me through Discord
+## 📫 You can reach me...
+- Discord: Royal Foxy#2589
 
 <!---
 RoyalFoxy/RoyalFoxy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
