@@ -1,7 +1,12 @@
-- 👋 Hi, I’m Foxy
-- 👀 I’m interested in Programming, mainly with Python, Java, Javascript
-- 🌱 I’m currently learning the above mentioned languages
-- 📫 How to reach me Through Discord
+# 👋 Hi, I’m Foxy
+## 👀 I’m interested in...
+- Programming, mainly with Python, Java and Javascript
+- Gaming (Minecraft and Factorio are cool games)
+- Hardware is pog too
+## 🌱 I’m currently learning...
+- The above mentioned languages
+- BMS (Look it up, it's a swiss school thing)
+## 📫 You can reach me through Discord
 
 <!---
 RoyalFoxy/RoyalFoxy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
