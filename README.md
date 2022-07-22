@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="royalfoxy.xyz"><img src="https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&size=45&duration=4000&center=true&vCenter=true&width=650&height=100&lines=Click+Me+to+go+to...;My+Website!;Web+and+Mobile+Developer;Always+learning;Bleeding+edge+Tech"></a>
+  <a href="https://www.royalfoxy.xyz"><img src="https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&size=45&duration=4000&center=true&vCenter=true&width=650&height=100&lines=Click+Me+to+go+to...;My+Website!;Web+and+Mobile+Developer;Always+learning;Bleeding+edge+Tech"></a>
 </p>
 
 <a href="https://app.daily.dev/RoyalFoxy"><img src="https://api.daily.dev/devcards/028299e2a1f943ec9deb00d1290ea557.png?r=kwr" width="400" alt="Foxy's Dev Card"/></a>
