@@ -4,14 +4,13 @@
   "backgroundColor": "#1e1e2e",
   "foregroundColor": "#cdd6f4",
   "strongColor": "#a6e3a1",
-  "weakColor": "#fab387",
-  "radarColor": "#b4befe",
+  "radarColor": "#a6e3a1",
   "growingAnimation": true,
   "contribColors": [
-    "#89b4fa",
+    "#11111b",
     "#a6e3a1",
-    "#f9e2af",
-    "#fab387",
-    "#f38ba8"
+    "#a6da95",
+    "#a6d189",
+    "#40a02b"
   ]
 }
