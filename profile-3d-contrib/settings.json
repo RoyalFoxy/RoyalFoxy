@@ -1,0 +1,17 @@
+{
+  "type": "normal",
+  "fileName": "profile-custom-evergreen.svg",
+  "backgroundColor": "#1e1e2e",
+  "foregroundColor": "#cdd6f4",
+  "strongColor": "#a6e3a1",
+  "weakColor": "gray",
+  "radarColor": "#b4befe",
+  "growingAnimation": true,
+  "contribColors": [
+    "#89b4fa",
+    "#a6e3a1",
+    "#f9e2af",
+    "#fab387",
+    "#f38ba8"
+  ]
+}
