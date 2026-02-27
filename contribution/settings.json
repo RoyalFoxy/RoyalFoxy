@@ -3,15 +3,15 @@
   "fileName": "../contribution/generated.svg",
   "backgroundColor": "#0a0a0a",
   "foregroundColor": "#fafafa",
-  "strongColor": "#262626",
+  "strongColor": "#a3a3a3",
   "weakColor": "#a3a3a3",
   "radarColor": "#eab308",
   "growingAnimation": false,
   "contribColors": [
-    "#171717",
-    "#16a34a",
-    "#84cc16",
-    "#f59e0b",
-    "#ef4444"
+    "#0c090c",
+    "#1d161e",
+    "#2a212c",
+    "#463947",
+    "#594c5b"
   ]
 }
