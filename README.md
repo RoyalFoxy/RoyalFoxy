@@ -1,1 +1,1 @@
-![](./profile-3d-contrib/profile-custom-catppuccin.svg)
+![My GitHub contribution graph](./contribution/generated.svg)
