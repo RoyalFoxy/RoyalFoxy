@@ -1,6 +1,6 @@
 {
   "type": "normal",
-  "fileName": "generated.svg",
+  "fileName": "../contribution/generated.svg",
   "backgroundColor": "#0a0a0a",
   "foregroundColor": "#fafafa",
   "strongColor": "#262626",
